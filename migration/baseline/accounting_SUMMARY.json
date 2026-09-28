@@ -1,0 +1,22 @@
+{
+  "file_count": 473,
+  "extension_counts": {
+    ".example": 1,
+    "": 2,
+    ".md": 79,
+    ".json": 18,
+    ".ts": 255,
+    ".lock": 1,
+    ".yml": 1,
+    ".cjs": 5,
+    ".js": 1,
+    ".html": 1,
+    ".zip": 1,
+    ".prisma": 1,
+    ".pyc": 3,
+    ".py": 9,
+    ".tsx": 93,
+    ".css": 1,
+    ".txt": 1
+  }
+}

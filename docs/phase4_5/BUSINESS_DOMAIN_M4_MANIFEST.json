@@ -1,0 +1,778 @@
+{
+  "phase": "M4",
+  "domain": "business-administration",
+  "generatedAt": "2026-09-28T07:08:38.538733+00:00",
+  "fileCount": 154,
+  "files": [
+    {
+      "path": "src/domains/business/App.tsx",
+      "bytes": 25689,
+      "sha256": "9c44a55b9f2e5519fb6c7bb058a709fc294b1ff77b17f39ef6b95a7ba483e04c"
+    },
+    {
+      "path": "src/domains/business/components/AiTutorModal.tsx",
+      "bytes": 10932,
+      "sha256": "ee286659af8ae4a9611736f2426478390b3aaa15a92c1ad42f296f426ba724aa"
+    },
+    {
+      "path": "src/domains/business/components/AssessmentQuizModal.tsx",
+      "bytes": 18687,
+      "sha256": "1b385bdd9cb79246e7ef28c01444ca4208dbb39b2a290a9db6f6b081f1fc980f"
+    },
+    {
+      "path": "src/domains/business/components/AssessmentsView.tsx",
+      "bytes": 77238,
+      "sha256": "cdb6e146ef86762740ccd60301583b407c18faf3250e585c806486486ef589d1"
+    },
+    {
+      "path": "src/domains/business/components/BookReaderView.tsx",
+      "bytes": 30919,
+      "sha256": "97803ea09315d16b550dd9676471972c9c401f5fab91ef61ecaaf2873b2ebbe1"
+    },
+    {
+      "path": "src/domains/business/components/ContentGovernanceDashboard.tsx",
+      "bytes": 54986,
+      "sha256": "0587e2bf357b1e8ba5af4bcdd3f8e06feab89af64d4c0fac37bb894318c0e939"
+    },
+    {
+      "path": "src/domains/business/components/FinalConnectingCardView.tsx",
+      "bytes": 7660,
+      "sha256": "519e6a648e7393a35fd08c4e333ee06ae80252a4c451e31df25fa6e80b170a42"
+    },
+    {
+      "path": "src/domains/business/components/GlossaryView.tsx",
+      "bytes": 9697,
+      "sha256": "7e83f78bad910ae35abaa86fc9c9a90ff178af3e9962fa21b3ad8c56887e2540"
+    },
+    {
+      "path": "src/domains/business/components/IntegrativeCasesView.tsx",
+      "bytes": 8250,
+      "sha256": "91fd13e204c964108f557aa2ad9e66a47d5096c9b06135df12b3bd0c510b8454"
+    },
+    {
+      "path": "src/domains/business/components/InteractiveDiagrams.tsx",
+      "bytes": 26185,
+      "sha256": "6be6056c217820934d488d6c6db4a554f63be8fc137a1e4b58c0bf7e46087f04"
+    },
+    {
+      "path": "src/domains/business/components/JreLabView.tsx",
+      "bytes": 31583,
+      "sha256": "e3fbcc9fc8b6c83e1e0569f6c21fd6e80d3a2f04bcf63670d8ab6a9f80f1562b"
+    },
+    {
+      "path": "src/domains/business/components/LibraryView.tsx",
+      "bytes": 171441,
+      "sha256": "7e3d2b21f2c9f6a21c5700e248ad0e1e6ded2c4b65f8a378c9bfc7032334a479"
+    },
+    {
+      "path": "src/domains/business/components/Navbar.tsx",
+      "bytes": 22659,
+      "sha256": "d29721e0423539fb47434853a9db460ebd1fdb3bd2fd7e5d0674c5313ef47bb9"
+    },
+    {
+      "path": "src/domains/business/components/PedagogicalStationsView.tsx",
+      "bytes": 111625,
+      "sha256": "cb2ebc1effdab0c6b1c4c47cf65e016b0ecf78e3f6b0c73b6b780b7eec4f410f"
+    },
+    {
+      "path": "src/domains/business/components/PhilosophyAndCurriculumMapView.tsx",
+      "bytes": 6217,
+      "sha256": "42a32d6eddf6e75486b0bd3e2b022d6c9bfc86d650b2dc08b577dd202c3c9870"
+    },
+    {
+      "path": "src/domains/business/components/PresentationToolbar.tsx",
+      "bytes": 5670,
+      "sha256": "d9ea9412aa34af3a35db4fb2c3f33c419ead523d20ea77d42bc448905be34b5d"
+    },
+    {
+      "path": "src/domains/business/components/PrivacyAndGovernanceModal.tsx",
+      "bytes": 7239,
+      "sha256": "f683c10b88a74451ff63a32153355b2636e9c7e93e4a38c6fda7aa4ab70f694c"
+    },
+    {
+      "path": "src/domains/business/components/QuestionBankView.tsx",
+      "bytes": 31226,
+      "sha256": "8066bb39b36ca9a5465c571fb34ff4c178cb9df274ac181a3ba35b1b2b53d455"
+    },
+    {
+      "path": "src/domains/business/components/SmartReviewBankView.tsx",
+      "bytes": 14612,
+      "sha256": "11e94668d0b0b1887e401768c3c03135488ebd458a3cebc2281c3be7aa4359ce"
+    },
+    {
+      "path": "src/domains/business/components/SourceProvenanceBadge.tsx",
+      "bytes": 9867,
+      "sha256": "8cbe8dad0950977b153e18b5776a68e96443771b51cd3f2360ca9b46fb18c9f6"
+    },
+    {
+      "path": "src/domains/business/components/StudentLmsView.tsx",
+      "bytes": 28700,
+      "sha256": "71c4f3e1e69a147f987c74b8a695bc3a0315dabdcc4ad7ea6a5101c6efdd7e8f"
+    },
+    {
+      "path": "src/domains/business/components/TextbookLessonEnrichment.tsx",
+      "bytes": 12308,
+      "sha256": "539d60eb30e652903e9bc6b80fe8f9232a125c14bcd28bbb7548578817515d27"
+    },
+    {
+      "path": "src/domains/business/components/TextbookQuestionsView.tsx",
+      "bytes": 48408,
+      "sha256": "bd5ebae2774b5001daa6c0b288cfa030b42ec491814ab3c0d98ae591cb2fb56f"
+    },
+    {
+      "path": "src/domains/business/components/UserNavBadge.tsx",
+      "bytes": 14309,
+      "sha256": "0f975a1d11a9c3b9654c4b6f3aaa7b155e11cf80515b095b510cf2bd220c227c"
+    },
+    {
+      "path": "src/domains/business/components/UserProfileModal.tsx",
+      "bytes": 125993,
+      "sha256": "363a576f4904383992d819a1d15d9c9f14d99b0368ee18f33b47b79159d5b2a8"
+    },
+    {
+      "path": "src/domains/business/context/UserContext.tsx",
+      "bytes": 11563,
+      "sha256": "65caffe7dd81b6a188ca270b76898909473fe361abdc3971e145e93c7bd4b104"
+    },
+    {
+      "path": "src/domains/business/data/assessmentsData.ts",
+      "bytes": 139255,
+      "sha256": "94c40e2ffa45d7bbe0e1900294fa91914ba8e20e01fc4503cff07202fa20b57d"
+    },
+    {
+      "path": "src/domains/business/data/contentAuditLog.ts",
+      "bytes": 4966,
+      "sha256": "52b318e22aa1220146d1b30d1866e028c6e03285c8b59b01d3bc351a4b520bd5"
+    },
+    {
+      "path": "src/domains/business/data/glossaryData.ts",
+      "bytes": 23470,
+      "sha256": "02e5e6f215ebc9dad86db05879d71a1dd2c396d94b24796889ac0f166ce263df"
+    },
+    {
+      "path": "src/domains/business/data/jreGuideData.ts",
+      "bytes": 9332,
+      "sha256": "204d93667dff5d0fa62befb919572de12c007ffcfc0df28146b601ddb585abb5"
+    },
+    {
+      "path": "src/domains/business/data/questionBankData.ts",
+      "bytes": 949,
+      "sha256": "e6c488a97d1f8eb050aa22d29a168f2d9ffec2149fba9f6dfb6450e60bbe4c2c"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit10Bank.ts",
+      "bytes": 8127,
+      "sha256": "5b7ff4435465eee3bd9a23b8cbe0423805e6e36b2df841756fbb6ae19bc23350"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit1Bank.ts",
+      "bytes": 273,
+      "sha256": "287a60dab64f5c0a9758f61dcbd034a94df1d9a0c3d5b3b1557a9bac1a7df63d"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit1BankPart1.ts",
+      "bytes": 79353,
+      "sha256": "e91aedb3ec1d75b41eee6436ba9663a875246435e4a83eeabe49a7139679e584"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit1BankPart2.ts",
+      "bytes": 80850,
+      "sha256": "927b2858fe9df14b84d6e3fac997f0b03d724c4660a0cee1888a88b8ed07f08f"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2Bank.ts",
+      "bytes": 855,
+      "sha256": "1e252e8d2af45530f162333bcba508eebee634331b5eb0c06a171313b15ede07"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2BankCanonical.ts",
+      "bytes": 1149,
+      "sha256": "0a1731a5403eb486a2495748aa1f7c5ad53f029f704b560db7e25f50610cc362"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2BankPart1.ts",
+      "bytes": 120762,
+      "sha256": "7a37b8bcd14ea07b6c552d8fd38290fd3ff1a98156ccc0a041479e269881e979"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2BankPart2.ts",
+      "bytes": 310,
+      "sha256": "227f8965a83c159415bd09482c3a9d5aca320cf8e4c5ccf7625f564ca0a4c25c"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2BankPart2A.ts",
+      "bytes": 55447,
+      "sha256": "f38d274cc0c71cea33178ed5413efdd11fbcaa119bd713f4b7a7481917a007fa"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit2BankPart2B.ts",
+      "bytes": 86979,
+      "sha256": "505205b79b2014f303d23d57d4f59a6a82ab005196c9ac3b529bcebe4a8459b1"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit3Bank.ts",
+      "bytes": 1334,
+      "sha256": "2e10f025fb7ee82b8b5cf333b7b93843bac08bccff8551ceb159f4e41fddb5c7"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit3BankCanonical.ts",
+      "bytes": 36539,
+      "sha256": "1b3ab4c7387fd5a939eae71a7d8d834bf82037261f3b14b894886f9ab9570716"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit3BankPart1.ts",
+      "bytes": 69153,
+      "sha256": "216aa606f879d2bd2148c4c08c909c1307784b11ae421047aec3ba3c6669684d"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit3BankPart2.ts",
+      "bytes": 104280,
+      "sha256": "ce68a05837e3105036b05ee3242e62e1ea5ae7c263f34b64e4400aeb11053f37"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit4Bank.ts",
+      "bytes": 1576,
+      "sha256": "ae124f92c080b8851602edc2681898a1e7f1aec7a7700c909ecb765a3fe7fedd"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit4BankCanonical.ts",
+      "bytes": 37424,
+      "sha256": "74baab38120040d7a8a493d01d518a8f169e1bedc77601021562ea15fc06e1e6"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit4BankPart1.ts",
+      "bytes": 67067,
+      "sha256": "fba79d003b914b3213b8af3d936f75c04a624135b592e9eaefb1b85e1fb810a8"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit4BankPart2.ts",
+      "bytes": 119494,
+      "sha256": "d8132ca37423826bd2d362559505b416acfd85e3f2a8455e51ec200ec0f575d4"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit5Bank.ts",
+      "bytes": 12519,
+      "sha256": "abcad3e8b55975556a51cebc1dabe50a25313de7eb83ca936a31f0c9ed5f4460"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit6Bank.ts",
+      "bytes": 11578,
+      "sha256": "ead7a8114875824e11eed96d2639aaadda782551e647189827f0bd12b1cf9456"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit7Bank.ts",
+      "bytes": 10200,
+      "sha256": "a58d063b44ffc0ea1ca3809275df91969eb86d4dbde65aac4c7d6c1ac375856c"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit8Bank.ts",
+      "bytes": 14437,
+      "sha256": "5f236c9780e12562a05c7946ff51093fcb808e48ab72a7814d7ae997897419e8"
+    },
+    {
+      "path": "src/domains/business/data/questionBanks/unit9Bank.ts",
+      "bytes": 22112,
+      "sha256": "c721a46c83c4054b98d0910658b75b9e7257f64b0b849130f06460dad3d87f4d"
+    },
+    {
+      "path": "src/domains/business/data/sourceRegistry.ts",
+      "bytes": 16794,
+      "sha256": "0cb2f04ac35e463249a79ec4c361221c6e5528fea415c47c23d238aae5aea7ac"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuideData.ts",
+      "bytes": 49067,
+      "sha256": "0e30091cfdc30760345a1cc340210cfae3c76737376eb3f889d05c37d0b629e9"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit10Lesson1.ts",
+      "bytes": 55222,
+      "sha256": "9adda62054c6b3653836f6f0376c4722eafec07a6ccd8147bb04b0835bd1b65a"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit10Lesson2.ts",
+      "bytes": 57022,
+      "sha256": "f9e83db4a8611d15ea6dcc2102bc1e6dd8e4620a07d9e9344e752126f8fdd24b"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit10Lesson3.ts",
+      "bytes": 60415,
+      "sha256": "535133beac5958d760e6437decf00588b5c1d8a3e609583618560efda164c261"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit10Lesson4.ts",
+      "bytes": 65416,
+      "sha256": "5b61537eceb11a62b7b6b102b6f1d1ca83fe3584834277e9037b91bff8bf088f"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit1Lesson2.ts",
+      "bytes": 42337,
+      "sha256": "694f3b894b34607058c2604b4feab69aeb7f1c4b578a5533f3e6cf3407532287"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit1Lesson3.ts",
+      "bytes": 41062,
+      "sha256": "2463a6a391465025c1af3956f3eed2ccd42137d19c3e265e83d240ae522b1e2d"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit1Lesson4.ts",
+      "bytes": 46431,
+      "sha256": "4fa5dc343dea2643aa2faad5212fbcf28c7c79994d7ba7b87f507740f7b6ba85"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit2Lesson1.ts",
+      "bytes": 39415,
+      "sha256": "9bcc2ecad7aa859ec46b35412e7406f3cd2f464484ea0010ef354cef5f675838"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit2Lesson2.ts",
+      "bytes": 40366,
+      "sha256": "7d969752193721baad826f515e58072bf952d64930343548ce1c67fe705ce2c6"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit2Lesson3.ts",
+      "bytes": 44528,
+      "sha256": "5fc326749311a9ede92e002919fcd03bc603335cb227accecf71406ec1b2111c"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit2Lesson4.ts",
+      "bytes": 45530,
+      "sha256": "08fe653a546c62d0d06e87f33c7978f97da07a1bc5790c8d307c519c241c4870"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit2Lesson5.ts",
+      "bytes": 46748,
+      "sha256": "fef850a5c76a4b43d8c19b9112b99a9ffe97aabeedb553e1acd98c79077bd9e9"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit3Lesson1.ts",
+      "bytes": 42379,
+      "sha256": "d45a70276d5d7d19abb750fd1adcefdd2a2115cc4129cdb099ef474507699017"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit3Lesson2.ts",
+      "bytes": 43916,
+      "sha256": "2cae9b1a75d4131d0568d150529ccd2040ee71608dc0c9ffff0f95f8373e2345"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit3Lesson3.ts",
+      "bytes": 44761,
+      "sha256": "ebc7215eb35966051d51cba48d9fcb3e5985662cb81a6390db6a83601a9a114b"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit3Lesson4.ts",
+      "bytes": 44711,
+      "sha256": "df8435f31457b8fc9cf7b104b56bb33236eb1013f33b492276cc35b94655c22e"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit3Lesson5.ts",
+      "bytes": 49399,
+      "sha256": "91c08e25ffd206ecdb8f566e240be80d91eb46f252447e7447c1dd284b529d32"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit4Lesson1.ts",
+      "bytes": 47527,
+      "sha256": "b01eaacba9109526a9590fe530891aa12dd5a71e96689d0e51b4eba6b186401b"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit4Lesson2.ts",
+      "bytes": 48223,
+      "sha256": "911509fa42c51dd16f8429fb1158a0df7d25886b2be6748361bfe986c92ef676"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit4Lesson3.ts",
+      "bytes": 49178,
+      "sha256": "46b80ea28a6c08868b6720460d392aad557889070d98722a2af9716640834db3"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit4Lesson4.ts",
+      "bytes": 52305,
+      "sha256": "0a40d5a05e26403c09e6e305c4927904914949777fc78e4600624afab1c46c5e"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit5Lesson1.ts",
+      "bytes": 43667,
+      "sha256": "82be2d11c2ab13d473fc73798ac05baa6698a37103eba2e6b6770dab1b45ea7e"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit5Lesson2.ts",
+      "bytes": 46570,
+      "sha256": "1949626aab693a7ac39390a0492894be87a976e49b6738dcd5e80e9c804edbbf"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit5Lesson3.ts",
+      "bytes": 46835,
+      "sha256": "aee004a896042df371aefdefc00574f90a87b85a97cffb2aeacca8020b199aa7"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit5Lesson4.ts",
+      "bytes": 46311,
+      "sha256": "3711af024a36d7bd7fcac65067ac0e0191337c91f8076b941256b7e5623fc59f"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit6Lesson1.ts",
+      "bytes": 47487,
+      "sha256": "41411d1f4d9b59d80c9ffe45a5e1d8da3780b6be478e03458c16fce526c03781"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit6Lesson2.ts",
+      "bytes": 47388,
+      "sha256": "376b7f5ceac7ed111a00ea696713c45a3eb9ce2057eb9410a87ec2bb1ad511b0"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit6Lesson3.ts",
+      "bytes": 49685,
+      "sha256": "3e8cd1dcb05477ccc4deeb875a0889350adbbbef1da1efbcebb88e004f246bd5"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit6Lesson4.ts",
+      "bytes": 51803,
+      "sha256": "38f05027210915ef356044692ac1155d51b2e0540c8743f9542b93265ec282f0"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit7Lesson1.ts",
+      "bytes": 38860,
+      "sha256": "3f90bd04f4ed4c63766b9587481ef8a8e53ea5650f2651f0cad58e1f21a78334"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit7Lesson2.ts",
+      "bytes": 41368,
+      "sha256": "35bb03f675705d8e0b9d2051302ffc4c6c70a2f92493710145ca408838ec4ffe"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit7Lesson3.ts",
+      "bytes": 42802,
+      "sha256": "01c66f141ad3a82ca1654d0156129263261ef5b2ca736f8359ae683e950c45c1"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit7Lesson4.ts",
+      "bytes": 46663,
+      "sha256": "264e42bccdb8363b46b8d80be78fc7269df105b953464cae41439587fb5fd2ed"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit8Lesson1.ts",
+      "bytes": 42380,
+      "sha256": "3e6efcc64aa3c2b5c06116208ee3034d1ecfaebe969b9c5fb1c1990e8d2450e1"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit8Lesson2.ts",
+      "bytes": 44400,
+      "sha256": "4fb4716eb9d537ffc3483f7989b87bbbd28f7a1b91fcc6b4b05891666e651aaa"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit8Lesson3.ts",
+      "bytes": 43917,
+      "sha256": "4bfba10898819712d5afd3e651ed800b297c4437fab8be4c30359f436db5841d"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit8Lesson4.ts",
+      "bytes": 49935,
+      "sha256": "11a70bc0ff9aacdf3f0b5a1258d3a057a06ba88ba60a86ce48f8b12c5f5f119f"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit9Lesson1.ts",
+      "bytes": 47309,
+      "sha256": "0e5b58bdc6bc16c08e19640ad713cf1c16bfb718766774d096ecf7a380f00138"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit9Lesson2.ts",
+      "bytes": 46563,
+      "sha256": "b4eab7bd236b11781cf933e6e91648cb9781a6790afa1b645fcf7b8e8a3de214"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit9Lesson3.ts",
+      "bytes": 50109,
+      "sha256": "23c0cb827c450a06974c1c1ce1b67197eb2942d78aea6bd731e9bb0166695d6e"
+    },
+    {
+      "path": "src/domains/business/data/teacherGuides/unit9Lesson4.ts",
+      "bytes": 51273,
+      "sha256": "b7f92c0180b2d3307864cf64754dcf0a88315b2dc61f19851aaccec44b7fea23"
+    },
+    {
+      "path": "src/domains/business/data/teacherStationsGuide.ts",
+      "bytes": 54200,
+      "sha256": "d7bdf31ec392a217cf49f3da6895404f3ff8d0caa41a57102f81f040d0931484"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/registry.ts",
+      "bytes": 4134,
+      "sha256": "d651ed85a93efcbe16c298da0efeabe4c05150867b01576d19d1dab2458b2ce8"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit10TextbookQuestions.ts",
+      "bytes": 14978,
+      "sha256": "35f2a0342eaded934e603178ed2d990cd4ad6396fb34099da96afd2f58cf9de0"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit2TextbookQuestions.ts",
+      "bytes": 95522,
+      "sha256": "26b5b27c770f5d142e3bcc3ac10ad0a8bb7490513ffbb4eef1daee7c9861dce7"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit3TextbookQuestions.ts",
+      "bytes": 109331,
+      "sha256": "a96d1364d04cfc0d6db8ab47c84f9ca0f169a8a82fea2557993232148edf9b99"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit4TextbookQuestions.ts",
+      "bytes": 80221,
+      "sha256": "ccad3c58a094a699c1f060337bac1e6099425dc07e142a0f32ed4617dd3a6ff1"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit5TextbookQuestions.ts",
+      "bytes": 62798,
+      "sha256": "5c9725b9cc4ea5b37e9a8952806593349e918649cbc5d73c76a3e8adf686ee55"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit6TextbookQuestions.ts",
+      "bytes": 12300,
+      "sha256": "b7fa73efeaed9faf4b47ca3675d84e919e4c74dd84dfede491f1d3a6f6351804"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit7TextbookQuestions.ts",
+      "bytes": 12724,
+      "sha256": "861f78583749a469d491e719b6557010938177ff14ab01096fb9fec9654ef350"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit8TextbookQuestions.ts",
+      "bytes": 13078,
+      "sha256": "11ce3e7a4e868887a195e325dc2d9c1366ab70bd62075131725b2152af84c362"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestions/unit9TextbookQuestions.ts",
+      "bytes": 13968,
+      "sha256": "ef343c1c6d2bbe1a93a854aadc31cd55b41663512de2dd42b799d31a300388f4"
+    },
+    {
+      "path": "src/domains/business/data/textbookQuestionsData.ts",
+      "bytes": 107362,
+      "sha256": "dc2cfe268c98c126c8f2ee51f89f75b042090942a6fc4ad106d807f3d85d969d"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/registry.ts",
+      "bytes": 4620,
+      "sha256": "ee778fa5e128fbf47907c110f09ee725b262b32b5f20f994d28f375c2048a1dd"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit1/index.ts",
+      "bytes": 1488,
+      "sha256": "525e5e275ca31c31171d9e7d1a3bd0c71e810c9a43e49bbd9969ba21657d79e6"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit1/week1Data.ts",
+      "bytes": 38594,
+      "sha256": "74aaff525ceb0fdce96aa1cccc7bc45e073b839b7af51e805f8410a68db10e3f"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit1/week2Data.ts",
+      "bytes": 43107,
+      "sha256": "10be1fefc027f868f2afb3d21c6df0bc4be01ac23c692d3ede58c145b019144e"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit1/week3Data.ts",
+      "bytes": 44811,
+      "sha256": "152a29146b8a24800b1f3769dfd0fa4068772b780e7485b114e8831a24d5bca6"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit1/week4Data.ts",
+      "bytes": 49091,
+      "sha256": "508c6a34581ab6e6a56dd9218a38b2387be524861f8dffc27caaa6d8458a98cc"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit10/index.ts",
+      "bytes": 13509,
+      "sha256": "11973eaf8924c0b922fb12c19336e58f78b4225e3b35fb4dfb626d3736af4302"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit2/index.ts",
+      "bytes": 1333,
+      "sha256": "ca579c8ec4b819bfc3c00b9dd368f26661d0e205a3b293dd24125ce3c328bd07"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit2/week1Data.ts",
+      "bytes": 41189,
+      "sha256": "0b95e7e36d5524b0dec910d012787247b2d494b11c92bc06d7b833212f328f57"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit2/week2Data.ts",
+      "bytes": 41053,
+      "sha256": "b85ac525def4d67a8e9e32a0c8c98dc6be9a11e000a2abd82f11bb5e5073bc86"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit2/week3Data.ts",
+      "bytes": 45665,
+      "sha256": "54f37e43860a0d3cfca1ff8b5fcc76e37b306f6a1ca8e23cd4985449fdd6c71f"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit2/week4Data.ts",
+      "bytes": 35085,
+      "sha256": "3cf6633cdaeb48f7759d75877461abb86669faeb04c7d73e2a7333b4f9eedf8e"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit3/index.ts",
+      "bytes": 1477,
+      "sha256": "ae55693e37c7aa37bd4ded005c7c568e50efe2a26361c514ce96b61cce113534"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit3/week1Data.ts",
+      "bytes": 59504,
+      "sha256": "29043cbf41687d7e2b99f12b0f270fe1c6be74f6de6b944ad94388c85e7c86e5"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit3/week2Data.ts",
+      "bytes": 62381,
+      "sha256": "941af84b1be33604df31c921bdfef16c4a471a9f5cbdce211a9d62eb98f7d80f"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit3/week3Data.ts",
+      "bytes": 63030,
+      "sha256": "a750aa1d50971f023dfd727643bb8afbde67d5208857fe426a874995aa3d01b8"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit4/index.ts",
+      "bytes": 1370,
+      "sha256": "fc7dd5d8a7871922effa116fa64f96157bd0422fa86bb633fd621ab72fe45aea"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit4/week1Data.ts",
+      "bytes": 43555,
+      "sha256": "970ddfbbb50eb7ac8aeaa56c944d26beb43d8c0dc49d4e14a0751438b17bfb98"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit4/week2Data.ts",
+      "bytes": 41954,
+      "sha256": "c14198f57747fd195b2c3bec4b599390b3e5bd09ef3f8c79b632c093a4bc7fd5"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit4/week3Data.ts",
+      "bytes": 49810,
+      "sha256": "4d611d25885bc154ced47a096ada0cc380a346a7580d00bfee84597ded8211aa"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit5/index.ts",
+      "bytes": 14765,
+      "sha256": "ed3853000ddd98b5860fbc38bad9c969928fdf88fe318f9817a76991b61a0aaa"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit6/index.ts",
+      "bytes": 12692,
+      "sha256": "e5e2a205fb45df4f3da6194105b4fd05f0f3770fb743b1cbe87846f23e0a04b2"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit7/index.ts",
+      "bytes": 13038,
+      "sha256": "62b1cfe0b2b6550bb0b05413ca3fb945307ed869d17d02fb0bd01068b904856e"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit8/index.ts",
+      "bytes": 12355,
+      "sha256": "c5f39ab2d328a6f4b4803a10422633910b8a70cffd09f108b48b2da1b6cb47f3"
+    },
+    {
+      "path": "src/domains/business/data/unitAssessments/unit9/index.ts",
+      "bytes": 13161,
+      "sha256": "4a668520c359662636a64dbebae44ac0fc295c2bc0d8c6aefda48260edd74004"
+    },
+    {
+      "path": "src/domains/business/data/units/unit1.ts",
+      "bytes": 83584,
+      "sha256": "cc23ac2123dbf3f93962e20eb461c896d42dabc5b1ab0ddc1677cf3eb454b18c"
+    },
+    {
+      "path": "src/domains/business/data/units/unit10.ts",
+      "bytes": 62251,
+      "sha256": "c665b53fc2f7cc25babd8e482c964b910f91dcb0a3471787f52032f5dca87eea"
+    },
+    {
+      "path": "src/domains/business/data/units/unit2.ts",
+      "bytes": 60617,
+      "sha256": "b6eca574c5eb97458a87d4cc1610f55c3014ad0206097ece982c129e94492190"
+    },
+    {
+      "path": "src/domains/business/data/units/unit3.ts",
+      "bytes": 59413,
+      "sha256": "51ff075da0666576ca7b39a76141c979ace0db5688e7b0da1603ca5ebdb46db0"
+    },
+    {
+      "path": "src/domains/business/data/units/unit4.ts",
+      "bytes": 48828,
+      "sha256": "23ee314b1af767ad7ff4a9131b8bd4db3ed39c550f77bc9b80af16a2ee10599d"
+    },
+    {
+      "path": "src/domains/business/data/units/unit5.ts",
+      "bytes": 51794,
+      "sha256": "58a1f258138b2095f60f9d83464b335ed7d80d3661047134a71d3209426f7bd7"
+    },
+    {
+      "path": "src/domains/business/data/units/unit6.ts",
+      "bytes": 70359,
+      "sha256": "d1c16b20bbb57742a304718a2e9098c22a8767d5aa19d1570518999b4ef45f07"
+    },
+    {
+      "path": "src/domains/business/data/units/unit7.ts",
+      "bytes": 62615,
+      "sha256": "b92901f9b24ce082e9f1f25a5431ecfc9879b3cf11de2480204eabacf68357cc"
+    },
+    {
+      "path": "src/domains/business/data/units/unit8.ts",
+      "bytes": 65551,
+      "sha256": "53ffc1ff7de49e8260ba56723610e5813c6e2eff1603d850f9cb11458e0edca7"
+    },
+    {
+      "path": "src/domains/business/data/units/unit9.ts",
+      "bytes": 59002,
+      "sha256": "b8643a8cfc66cacede8f332365af60cc4e1e372c1f6d707dafc8ba9f8602907f"
+    },
+    {
+      "path": "src/domains/business/data/unitsData.ts",
+      "bytes": 437,
+      "sha256": "405105e79c89615369bf351b84aeff13ff99b57207895417de9241f744b0bc91"
+    },
+    {
+      "path": "src/domains/business/data/unitsPart1.ts",
+      "bytes": 322,
+      "sha256": "a3bedb68395db5be05fbb6b2e0b97d8965063a7fdc54117164b53db05e70b7d8"
+    },
+    {
+      "path": "src/domains/business/data/unitsPart2.ts",
+      "bytes": 325,
+      "sha256": "0f361edc98ca30e67d2ac7284b7fdcf66bd285938860471dae34d30dbf5b4072"
+    },
+    {
+      "path": "src/domains/business/index.css",
+      "bytes": 23,
+      "sha256": "42070e0b45bb201b2b838a52aaaa6e965f964e0b542d97f1fe517fe59c4b75a8"
+    },
+    {
+      "path": "src/domains/business/main.tsx",
+      "bytes": 334,
+      "sha256": "f85d7b6d85dbf2198b183e0124e0b774e589ae9167f9fe43898566a4d03be04d"
+    },
+    {
+      "path": "src/domains/business/services/assessmentEngine.ts",
+      "bytes": 9344,
+      "sha256": "043258cc3f3aa7f22cdec937e20d7897f02fd0882bb5a09f31a7c9d691b7ec96"
+    },
+    {
+      "path": "src/domains/business/services/lmsService.ts",
+      "bytes": 63959,
+      "sha256": "72dcc2da11eac918f9b10b7ce700f07d5f5fb986b9e85c40f1d60c533e921764"
+    },
+    {
+      "path": "src/domains/business/types.ts",
+      "bytes": 24878,
+      "sha256": "145f48ea63a5f34f5cc4aa7103dbeb574e160cec31b5f339c1fdf6eacbf5b974"
+    },
+    {
+      "path": "src/domains/business/utils/contentValidator.ts",
+      "bytes": 5338,
+      "sha256": "1b5c602d3ae99b7ef82e8e286fe7703e9efec27505babb1df08ac5d59ad369dc"
+    },
+    {
+      "path": "src/domains/business/utils/exportEngine.ts",
+      "bytes": 29910,
+      "sha256": "75a098a40d6acbf3c2e1d31551df2a540e7555b73854061507c4cdd94dadb823"
+    }
+  ]
+}

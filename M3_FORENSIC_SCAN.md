@@ -1,0 +1,229 @@
+# M3 FORENSIC SCAN
+
+Generated against the M2 repository snapshot. A hit is not automatically a defect; each hit requires classification before removal.
+
+## `selectedUnit` — 369 hits
+- `src/routing/legacyNavigationAdapter.ts:64`
+- `src/routing/legacyNavigationAdapter.ts:71`
+- `src/app/AppShell.tsx:41`
+- `src/app/AppShell.tsx:164`
+- `src/app/AppShell.tsx:286`
+- `src/domains/business/App.tsx:35`
+- `src/domains/business/App.tsx:159`
+- `src/domains/business/App.tsx:162`
+- `src/domains/business/App.tsx:163`
+- `src/domains/business/App.tsx:169`
+- `src/domains/business/App.tsx:170`
+- `src/domains/business/App.tsx:182`
+- `src/domains/business/App.tsx:238`
+- `src/domains/business/App.tsx:239`
+- `src/domains/business/App.tsx:258`
+- `src/domains/business/App.tsx:260`
+- `src/domains/business/App.tsx:282`
+- `src/domains/business/App.tsx:342`
+- `src/domains/business/App.tsx:352`
+- `src/domains/business/App.tsx:370`
+- `src/domains/business/App.tsx:388`
+- `src/domains/business/App.tsx:389`
+- `src/domains/business/App.tsx:403`
+- `src/domains/business/App.tsx:404`
+- `src/domains/business/App.tsx:418`
+- `src/domains/business/App.tsx:419`
+- `src/domains/business/App.tsx:439`
+- `src/domains/business/App.tsx:440`
+- `src/domains/business/App.tsx:455`
+- `src/domains/business/App.tsx:456`
+- `src/domains/business/App.tsx:471`
+- `src/domains/business/App.tsx:472`
+- `src/domains/business/App.tsx:484`
+- `src/domains/business/App.tsx:485`
+- `src/domains/business/App.tsx:499`
+- `src/domains/business/App.tsx:564`
+- `src/domains/business/components/JreLabView.tsx:26`
+- `src/domains/business/components/JreLabView.tsx:40`
+- `src/domains/business/components/JreLabView.tsx:50`
+- `src/domains/business/components/JreLabView.tsx:51`
+- `src/domains/business/components/JreLabView.tsx:62`
+- `src/domains/business/components/JreLabView.tsx:64`
+- `src/domains/business/components/JreLabView.tsx:65`
+- `src/domains/business/components/JreLabView.tsx:68`
+- `src/domains/business/components/JreLabView.tsx:70`
+- `src/domains/business/components/JreLabView.tsx:181`
+- `src/domains/business/components/JreLabView.tsx:184`
+- `src/domains/business/components/TextbookQuestionsView.tsx:38`
+- `src/domains/business/components/TextbookQuestionsView.tsx:39`
+- `src/domains/business/components/TextbookQuestionsView.tsx:51`
+- `src/domains/business/components/TextbookQuestionsView.tsx:52`
+- `src/domains/business/components/TextbookQuestionsView.tsx:67`
+- `src/domains/business/components/TextbookQuestionsView.tsx:68`
+- `src/domains/business/components/TextbookQuestionsView.tsx:71`
+- `src/domains/business/components/TextbookQuestionsView.tsx:72`
+- `src/domains/business/components/TextbookQuestionsView.tsx:216`
+- `src/domains/business/components/TextbookQuestionsView.tsx:221`
+- `src/domains/business/components/TextbookQuestionsView.tsx:222`
+- `src/domains/business/components/TextbookQuestionsView.tsx:487`
+- `src/domains/business/components/GlossaryView.tsx:19`
+- ... 309 additional hits
+
+## `currentLessonIndex` — 19 hits
+- `src/routing/legacyNavigationAdapter.ts:88`
+- `src/routing/legacyNavigationAdapter.ts:96`
+- `src/pages/LessonPage.tsx:71`
+- `src/pages/LessonPage.tsx:88`
+- `src/pages/LessonPage.tsx:89`
+- `src/components/LessonViewer.tsx:25`
+- `src/components/LessonViewer.tsx:26`
+- `src/components/LessonViewer.tsx:32`
+- `src/components/LessonViewer.tsx:33`
+- `src/components/LessonViewer.tsx:40`
+- `src/components/LessonViewer.tsx:124`
+- `src/components/LessonViewer.tsx:125`
+- `src/components/LessonViewer.tsx:132`
+- `src/components/LessonViewer.tsx:133`
+- `src/components/LessonViewer.tsx:324`
+- `src/components/LessonViewer.tsx:332`
+- `src/components/LessonViewer.tsx:1877`
+- `src/components/LessonViewer.tsx:1885`
+- `src/components/LessonViewer.tsx:1890`
+
+## `questions.length` — 125 hits
+- `src/routing/__tests__/Phase2Routing.test.ts:218`
+- `src/routing/__tests__/Phase2Routing.test.ts:219`
+- `src/routing/__tests__/Phase2Routing.test.ts:222`
+- `src/domains/business/services/assessmentEngine.ts:28`
+- `src/domains/business/services/assessmentEngine.ts:35`
+- `src/domains/business/services/assessmentEngine.ts:39`
+- `src/domains/business/services/assessmentEngine.ts:63`
+- `src/domains/business/services/assessmentEngine.ts:74`
+- `src/domains/business/components/AssessmentQuizModal.tsx:76`
+- `src/domains/business/components/TextbookQuestionsView.tsx:156`
+- `src/domains/business/components/TextbookQuestionsView.tsx:245`
+- `src/domains/business/components/TextbookQuestionsView.tsx:257`
+- `src/domains/business/components/TextbookQuestionsView.tsx:419`
+- `src/domains/business/components/TextbookQuestionsView.tsx:453`
+- `src/domains/business/components/LibraryView.tsx:408`
+- `src/domains/business/components/LibraryView.tsx:410`
+- `src/domains/business/components/LibraryView.tsx:529`
+- `src/domains/business/components/LibraryView.tsx:533`
+- `src/domains/business/components/LibraryView.tsx:622`
+- `src/domains/business/components/LibraryView.tsx:656`
+- `src/domains/business/components/LibraryView.tsx:674`
+- `src/domains/business/components/LibraryView.tsx:701`
+- `src/domains/business/components/LibraryView.tsx:705`
+- `src/domains/business/components/LibraryView.tsx:708`
+- `src/domains/business/components/LibraryView.tsx:711`
+- `src/domains/business/components/LibraryView.tsx:739`
+- `src/domains/business/components/LibraryView.tsx:742`
+- `src/domains/business/components/LibraryView.tsx:761`
+- `src/domains/business/components/LibraryView.tsx:764`
+- `src/domains/business/components/LibraryView.tsx:783`
+- `src/domains/business/components/LibraryView.tsx:786`
+- `src/domains/business/components/LibraryView.tsx:805`
+- `src/domains/business/components/LibraryView.tsx:808`
+- `src/domains/business/components/LibraryView.tsx:827`
+- `src/domains/business/components/LibraryView.tsx:830`
+- `src/domains/business/components/LibraryView.tsx:1012`
+- `src/domains/business/components/LibraryView.tsx:1023`
+- `src/domains/business/components/LibraryView.tsx:1128`
+- `src/domains/business/components/LibraryView.tsx:1162`
+- `src/domains/business/components/LibraryView.tsx:1180`
+- `src/domains/business/components/LibraryView.tsx:1212`
+- `src/domains/business/components/LibraryView.tsx:1231`
+- `src/domains/business/components/LibraryView.tsx:1235`
+- `src/domains/business/components/LibraryView.tsx:1238`
+- `src/domains/business/components/LibraryView.tsx:1278`
+- `src/domains/business/components/LibraryView.tsx:1281`
+- `src/domains/business/components/LibraryView.tsx:1315`
+- `src/domains/business/components/LibraryView.tsx:1318`
+- `src/domains/business/components/LibraryView.tsx:1348`
+- `src/domains/business/components/LibraryView.tsx:1351`
+- `src/domains/business/components/LibraryView.tsx:1380`
+- `src/domains/business/components/LibraryView.tsx:1383`
+- `src/domains/business/components/LibraryView.tsx:1408`
+- `src/domains/business/components/LibraryView.tsx:1411`
+- `src/domains/business/components/AssessmentsView.tsx:846`
+- `src/domains/business/components/ContentGovernanceDashboard.tsx:285`
+- `src/domains/business/components/ContentGovernanceDashboard.tsx:659`
+- `src/domains/business/components/ContentGovernanceDashboard.tsx:809`
+- `src/domains/business/components/ContentGovernanceDashboard.tsx:811`
+- `src/domains/business/components/QuestionBankView.tsx:150`
+- ... 65 additional hits
+
+## `localStorage` — 79 hits
+- `src/main.tsx:32`
+- `src/main.tsx:33`
+- `src/app/AppShell.tsx:83`
+- `src/app/AppShell.tsx:98`
+- `src/app/AppShell.tsx:102`
+- `src/app/AppShell.tsx:116`
+- `src/api/apiClient.ts:16`
+- `src/api/apiClient.ts:17`
+- `src/api/apiClient.ts:26`
+- `src/api/apiClient.ts:29`
+- `src/api/apiClient.ts:38`
+- `src/api/apiClient.ts:39`
+- `src/domains/business/App.tsx:49`
+- `src/domains/business/App.tsx:61`
+- `src/domains/business/App.tsx:71`
+- `src/domains/business/App.tsx:87`
+- `src/domains/business/services/lmsService.ts:537`
+- `src/domains/business/services/lmsService.ts:545`
+- `src/domains/business/services/lmsService.ts:624`
+- `src/domains/business/services/lmsService.ts:633`
+- `src/domains/business/services/lmsService.ts:656`
+- `src/domains/business/services/lmsService.ts:666`
+- `src/domains/business/services/lmsService.ts:1018`
+- `src/domains/business/services/lmsService.ts:1044`
+- `src/domains/business/services/lmsService.ts:1358`
+- `src/domains/business/services/lmsService.ts:1372`
+- `src/domains/business/services/lmsService.ts:1385`
+- `src/domains/business/services/lmsService.ts:1395`
+- `src/domains/business/services/lmsService.ts:1410`
+- `src/domains/business/services/lmsService.ts:1612`
+- `src/domains/business/services/lmsService.ts:1613`
+- `src/domains/business/services/lmsService.ts:1640`
+- `src/domains/business/services/lmsService.ts:1644`
+- `src/domains/business/services/lmsService.ts:1676`
+- `src/domains/business/services/lmsService.ts:1704`
+- `src/domains/business/services/lmsService.ts:1708`
+- `src/domains/business/services/lmsService.ts:1751`
+- `src/domains/business/services/lmsService.ts:1761`
+- `src/domains/business/services/lmsService.ts:1816`
+- `src/domains/business/services/assessmentEngine.ts:170`
+- `src/components/DocumentaryCycleSimulator.tsx:166`
+- `src/components/DocumentaryCycleSimulator.tsx:172`
+- `src/components/ThanaweyaStudentBar.tsx:34`
+- `src/components/ThanaweyaStudentBar.tsx:44`
+- `src/components/__tests__/FocusModeToggle.test.tsx:9`
+- `src/components/__tests__/FocusModeToggle.test.tsx:50`
+- `src/components/__tests__/FocusModeToggle.test.tsx:64`
+- `src/components/__tests__/FocusModeToggle.test.tsx:71`
+- `src/components/dashboard/StudentDashboardView.tsx:80`
+- `src/components/dashboard/StudentDashboardView.tsx:83`
+- `src/components/dashboard/StudentDashboardView.tsx:197`
+- `src/components/dashboard/StudentDashboardView.tsx:245`
+- `src/components/dashboard/StudentDashboardView.tsx:249`
+- `src/components/dashboard/StudentDashboardView.tsx:251`
+- `src/domain/curriculum/__tests__/Phase3DeepLinkingBinding.test.tsx:91`
+- `src/domain/curriculum/__tests__/Phase3DeepLinkingBinding.test.tsx:92`
+- `src/domain/curriculum/__tests__/Phase3DeepLinkingBinding.test.tsx:93`
+- `src/context/ThemeContext.tsx:154`
+- `src/context/ThemeContext.tsx:166`
+- `src/context/ThemeContext.tsx:197`
+- ... 19 additional hits
+
+## `sessionStorage` — 0 hits
+- None
+
+## `TODO` — 0 hits
+- None
+
+## `FIXME` — 0 hits
+- None
+
+## `default credentials` — 0 hits
+- None
+
+## `JWT fallback` — 0 hits
+- None
+

@@ -1,0 +1,25 @@
+{
+  "phase": "M15",
+  "files": [
+    {
+      "path": "server.ts",
+      "sha256": "78fc28a9bb1ec77c1d2f087d12671ad16e64175f1a903a5972e4b2e5274aee34",
+      "bytes": 15758
+    },
+    {
+      "path": "src/server/auth/productionHardening.ts",
+      "sha256": "b95eff72a6e8cc181d62f96fd932473b98769573aa03a657bfd52b6dc9118512",
+      "bytes": 1655
+    },
+    {
+      "path": "src/server/__tests__/productionHardening.test.ts",
+      "sha256": "adeba4ceed18592511ea63b7615285197dff3651304f21600f4977ff73657f1d",
+      "bytes": 562
+    },
+    {
+      "path": "docs/M15_PRODUCTION_HARDENING.md",
+      "sha256": "647a70a89fbe3823dd433b21a52d903f2441da5edbb0aec082ebf19690af04e8",
+      "bytes": 869
+    }
+  ]
+}

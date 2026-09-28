@@ -1,0 +1,2 @@
+9a1ff50cbf66a779328b947e4dab6e6ad38eb860bc20304fc4c6613191112db2  migration/snapshots/original_inputs/accounting_original.zip
+af5b89e465875be4b7bc6168aa47c17e82f976f722b07affc34d503700a98034  migration/snapshots/original_inputs/business_original.zip

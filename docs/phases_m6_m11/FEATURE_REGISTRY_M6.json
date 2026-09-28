@@ -1,0 +1,97 @@
+{
+  "phase": "M6",
+  "generatedAt": "2026-09-28T07:09:04.006632+00:00",
+  "features": [
+    {
+      "featureId": "authentication",
+      "classification": "COMMON",
+      "target": "Core",
+      "source": "src/server/auth",
+      "migrationNote": "existing shared auth services"
+    },
+    {
+      "featureId": "authorization",
+      "classification": "COMMON",
+      "target": "Core",
+      "source": "src/server/auth",
+      "migrationNote": "existing authorization service"
+    },
+    {
+      "featureId": "student-lms",
+      "classification": "COMMON",
+      "target": "Core",
+      "source": "src/domains/business/components/StudentLmsView.tsx",
+      "migrationNote": "Business implementation retained; accounting counterpart requires runtime verification"
+    },
+    {
+      "featureId": "assessment",
+      "classification": "COMMON",
+      "target": "Core + Domain",
+      "source": "src/domain/assessment",
+      "migrationNote": "Accounting canonical assessment + Business assessment adapter"
+    },
+    {
+      "featureId": "mastery",
+      "classification": "COMMON",
+      "target": "Core",
+      "source": "src/domain/analytics/StudentMasteryEngine.ts",
+      "migrationNote": "shared engine exists"
+    },
+    {
+      "featureId": "analytics",
+      "classification": "COMMON",
+      "target": "Core",
+      "source": "src/domain/analytics",
+      "migrationNote": "shared analytics engines exist"
+    },
+    {
+      "featureId": "jre",
+      "classification": "GENERICIZABLE",
+      "target": "Core + Domain",
+      "source": "src/domain/assessment/jre; src/domains/business/components/JreLabView.tsx",
+      "migrationNote": "shared rubric/engine plus Business UI"
+    },
+    {
+      "featureId": "smart-review",
+      "classification": "GENERICIZABLE",
+      "target": "Core + Domain",
+      "source": "src/domains/business/components/SmartReviewBankView.tsx",
+      "migrationNote": "Business source retained; generic engine contract required"
+    },
+    {
+      "featureId": "ai-tutor",
+      "classification": "GENERICIZABLE",
+      "target": "Core + Domain",
+      "source": "src/domains/business/components/AiTutorModal.tsx",
+      "migrationNote": "domain-aware context required"
+    },
+    {
+      "featureId": "glossary",
+      "classification": "GENERICIZABLE",
+      "target": "Core + Domain",
+      "source": "src/data/glossary; src/domains/business/components/GlossaryView.tsx",
+      "migrationNote": "domain-specific data with shared service/UI contract"
+    },
+    {
+      "featureId": "integrative-cases",
+      "classification": "BUSINESS-SPECIFIC",
+      "target": "Business Administration",
+      "source": "src/domains/business/components/IntegrativeCasesView.tsx",
+      "migrationNote": "retain"
+    },
+    {
+      "featureId": "t-account-simulator",
+      "classification": "ACCOUNTING-SPECIFIC",
+      "target": "Accounting",
+      "source": "src/components/simulator",
+      "migrationNote": "retain"
+    },
+    {
+      "featureId": "pedagogical-stations",
+      "classification": "BUSINESS-SPECIFIC",
+      "target": "Business Administration",
+      "source": "src/domains/business/components/PedagogicalStationsView.tsx",
+      "migrationNote": "retain"
+    }
+  ]
+}

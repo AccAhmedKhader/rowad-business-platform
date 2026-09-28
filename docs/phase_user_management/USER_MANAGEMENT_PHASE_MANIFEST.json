@@ -1,0 +1,40 @@
+{
+  "phase": "Advanced User Management",
+  "files": [
+    {
+      "path": "src/server/modules/userManagement.ts",
+      "bytes": 9271,
+      "sha256": "e8cc2166e97887ac7acfe309947f1b4195d50d097aa86fb14eb7a53309164cf8"
+    },
+    {
+      "path": "src/server/auth/authorizationService.ts",
+      "bytes": 14082,
+      "sha256": "4b4c587a8e9931c9847f1755f73e5378e104aa4b33916065260c8749b9cffe1f"
+    },
+    {
+      "path": "server.ts",
+      "bytes": 12087,
+      "sha256": "afe2d4253527373e727bcbc9803c2876a1d3366e14d5ddbf85c4bb0ca4c9459b"
+    },
+    {
+      "path": "src/app/AppRoutes.tsx",
+      "bytes": 5786,
+      "sha256": "924ee8dbf374f0aa19b013d17f0b58afccc3860ec0c4000f546cfa8c28d3ea10"
+    },
+    {
+      "path": "src/pages/UserManagementPage.tsx",
+      "bytes": 5372,
+      "sha256": "46f870b8e2fcb90ce62cf2a27b828bdc752cbe7324c0050b8eb7663eefd68bb2"
+    },
+    {
+      "path": "src/server/__tests__/userManagement.test.ts",
+      "bytes": 1123,
+      "sha256": "02aed0db9e6fbe7ddfd28cf41cb877df3ef1672529295f8d3f92a43b929b2b70"
+    },
+    {
+      "path": "docs/phase_user_management/PHASE_USER_MANAGEMENT_ADVANCED_IMPLEMENTATION.md",
+      "bytes": 1644,
+      "sha256": "1f5ac20c771b27d5ab4f724d4db8fb89ce0342ab0df8cd89af7f844b807cdaa7"
+    }
+  ]
+}

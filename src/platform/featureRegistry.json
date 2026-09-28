@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "features": [
+    {
+      "featureId": "feature:lesson-viewer-curriculum",
+      "name": "Lesson Viewer & Curriculum",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Retained full rich V1 educational content + linked glossary",
+      "status": "UPGRADED"
+    },
+    {
+      "featureId": "feature:accounting-simulation",
+      "name": "Accounting Simulation",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Retained interactive V1 T-Account simulator",
+      "status": "PRESERVED"
+    },
+    {
+      "featureId": "feature:journal-reasoning-engine-jre",
+      "name": "Journal Reasoning Engine (JRE)",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Unified 5 criteria × 4 marks across UI, backend, tests",
+      "status": "UNIFIED"
+    },
+    {
+      "featureId": "feature:assessment-registry",
+      "name": "Assessment Registry",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Full `VerifiedAssessmentRegistry` with SHA-256 hashes",
+      "status": "IMPLEMENTED"
+    },
+    {
+      "featureId": "feature:source-snapshots",
+      "name": "Source Snapshots",
+      "sourcePlatform": "M2",
+      "currentImplementation": "`SourceSnapshotRegistry` with cryptographic verification",
+      "status": "IMPLEMENTED"
+    },
+    {
+      "featureId": "feature:grading-authority",
+      "name": "Grading Authority",
+      "sourcePlatform": "M2",
+      "currentImplementation": "`AuthoritativeGradingEngine` handling all 7 grading modes",
+      "status": "SECURED"
+    },
+    {
+      "featureId": "feature:answer-key-protection",
+      "name": "Answer-Key Protection",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Complete serialization filtering across all public routes",
+      "status": "SECURED"
+    },
+    {
+      "featureId": "feature:learner-reachability",
+      "name": "Learner Reachability",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Automated zero-orphan audit (0 orphan items)",
+      "status": "VERIFIED"
+    },
+    {
+      "featureId": "feature:mastery-engine",
+      "name": "Mastery Engine",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Server-driven mastery engine rejecting fabricated scores",
+      "status": "UNIFIED"
+    },
+    {
+      "featureId": "feature:adaptive-remediation",
+      "name": "Adaptive Remediation",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Integrated with authoritative attempt outcomes",
+      "status": "UPGRADED"
+    },
+    {
+      "featureId": "feature:teacher-student-dashboards",
+      "name": "Teacher & Student Dashboards",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Full dashboards + content quality & psychometric reports",
+      "status": "PRESERVED"
+    },
+    {
+      "featureId": "feature:persistence-engine",
+      "name": "Persistence Engine",
+      "sourcePlatform": "M2",
+      "currentImplementation": "Robust transactional atomic disk database with backups",
+      "status": "PRESERVED"
+    },
+    {
+      "featureId": "feature:accounting-glossary",
+      "name": "Accounting Glossary",
+      "sourcePlatform": "M2",
+      "currentImplementation": "14 comprehensive terms with interactive links in lessons",
+      "status": "ADDED"
+    }
+  ]
+}

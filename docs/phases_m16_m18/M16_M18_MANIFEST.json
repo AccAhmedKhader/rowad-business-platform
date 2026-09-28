@@ -1,0 +1,75 @@
+{
+  "phase": "M16-M18",
+  "files": [
+    {
+      "path": "src/domain/academicQuality/AcademicQualityGate.ts",
+      "sha256": "252299f702365f7237e5ac42ea80390d784b67c0654cd9616599293e964b193a",
+      "bytes": 3940
+    },
+    {
+      "path": "src/domain/adaptive/AdaptiveLearningEngine.ts",
+      "sha256": "3c0049249a36b06ba35792892afe1fcb0c48c48331aab02d093a24d6e864cca4",
+      "bytes": 2556
+    },
+    {
+      "path": "src/domain/commandCenter/PlatformCommandCenter.ts",
+      "sha256": "4e9fdf4a27d312093ba58aa424b45dde31f1e4e66544732d167c0b8b65ba6d97",
+      "bytes": 550
+    },
+    {
+      "path": "src/server/modules/academicQuality.ts",
+      "sha256": "a43c308ac7689b0aa1f755ca7a483bc9dad4bfb16093435bef2f71f447f2f736",
+      "bytes": 538
+    },
+    {
+      "path": "src/server/modules/adaptiveLearning.ts",
+      "sha256": "25f4112de106a9c2238d9921f886cbe2de30f0c8e0310e9a0f9c633db22c048a",
+      "bytes": 804
+    },
+    {
+      "path": "src/server/modules/commandCenter.ts",
+      "sha256": "68bcef435ab1161202dd0f182c68b8f083974ca54955640faf6698955c843400",
+      "bytes": 2644
+    },
+    {
+      "path": "src/pages/PlatformCommandCenterPage.tsx",
+      "sha256": "2d60761ad791f59ca8bd42c70cb18389846662b3393e822fd36e69a1575d1eb5",
+      "bytes": 2751
+    },
+    {
+      "path": "src/domain/academicQuality/AcademicQualityGate.test.ts",
+      "sha256": "3dad4062c9917239b0e666ac44e20ce23711d3604827c3fa1d73accee8d8c0ba",
+      "bytes": 592
+    },
+    {
+      "path": "src/domain/adaptive/AdaptiveLearningEngine.test.ts",
+      "sha256": "4116294a5f2bd6d63163e59dbe7329fad2a76fc300dc6cc23d2c222052bc5d9c",
+      "bytes": 487
+    },
+    {
+      "path": "src/domain/commandCenter/PlatformCommandCenter.test.ts",
+      "sha256": "39b4771780594f76cd10ac33ed17e0a0234f3181ae58239a6fa060dbadde365a",
+      "bytes": 267
+    },
+    {
+      "path": "docs/phases_m16_m18/PHASE_M16_M18_REPORT.md",
+      "sha256": "66f294586b1d7c9305100a9fbe270b11cee2b3fe26f8faffbff22bea9674102b",
+      "bytes": 1299
+    },
+    {
+      "path": "docs/phases_m16_m18/M16_ACADEMIC_QUALITY_SPEC.md",
+      "sha256": "5c44965acf5ef0f12a70c2a53a669e686bdd9f88d2cc80293f92dd83e770bcde",
+      "bytes": 355
+    },
+    {
+      "path": "docs/phases_m16_m18/M17_ADAPTIVE_LEARNING_SPEC.md",
+      "sha256": "7073d4b9845fc020b1b7074832b5a20f771689087ddb8e024d281cdbb0be932c",
+      "bytes": 358
+    },
+    {
+      "path": "docs/phases_m16_m18/M18_COMMAND_CENTER_SPEC.md",
+      "sha256": "8ac30eee98ef6c691ea495750585476ee7e28a6e3b452032cf4f3475c0a941fe",
+      "bytes": 265
+    }
+  ]
+}

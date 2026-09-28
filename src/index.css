@@ -1,0 +1,711 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: #F9F7F2;
+    color: #1D1D1B;
+    font-family: 'Cairo', system-ui, sans-serif;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+  }
+  .font-serif-editorial {
+    font-family: 'Amiri', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* =========================================================================
+   THANAWEYA AMMA MODERN THEME ENGINE (ثيم الثانوية العامة العصري لدفعة 2027)
+   Transforms the vintage book styling into a vibrant, high-energy,
+   crisp digital high school learning environment.
+   ========================================================================= */
+
+/* Font Family Presets - Cascading dynamically to body, headings (h1-h6), and font-serif containers */
+[data-font="alexandria"],
+[data-font="alexandria"] body,
+[data-font="alexandria"] h1,
+[data-font="alexandria"] h2,
+[data-font="alexandria"] h3,
+[data-font="alexandria"] h4,
+[data-font="alexandria"] h5,
+[data-font="alexandria"] h6,
+[data-font="alexandria"] .font-serif,
+[data-font="alexandria"] .font-serif-editorial,
+body.font-preset-alexandria,
+body.font-preset-alexandria h1,
+body.font-preset-alexandria h2,
+body.font-preset-alexandria h3,
+body.font-preset-alexandria h4,
+body.font-preset-alexandria h5,
+body.font-preset-alexandria h6,
+body.font-preset-alexandria .font-serif,
+body.font-preset-alexandria .font-serif-editorial {
+  font-family: 'Alexandria', 'Readex Pro', system-ui, sans-serif !important;
+}
+
+[data-font="tajawal"],
+[data-font="tajawal"] body,
+[data-font="tajawal"] h1,
+[data-font="tajawal"] h2,
+[data-font="tajawal"] h3,
+[data-font="tajawal"] h4,
+[data-font="tajawal"] h5,
+[data-font="tajawal"] h6,
+[data-font="tajawal"] .font-serif,
+[data-font="tajawal"] .font-serif-editorial,
+body.font-preset-tajawal,
+body.font-preset-tajawal h1,
+body.font-preset-tajawal h2,
+body.font-preset-tajawal h3,
+body.font-preset-tajawal h4,
+body.font-preset-tajawal h5,
+body.font-preset-tajawal h6,
+body.font-preset-tajawal .font-serif,
+body.font-preset-tajawal .font-serif-editorial {
+  font-family: 'Tajawal', 'Cairo', system-ui, sans-serif !important;
+}
+
+[data-font="readex"],
+[data-font="readex"] body,
+[data-font="readex"] h1,
+[data-font="readex"] h2,
+[data-font="readex"] h3,
+[data-font="readex"] h4,
+[data-font="readex"] h5,
+[data-font="readex"] h6,
+[data-font="readex"] .font-serif,
+[data-font="readex"] .font-serif-editorial,
+body.font-preset-readex,
+body.font-preset-readex h1,
+body.font-preset-readex h2,
+body.font-preset-readex h3,
+body.font-preset-readex h4,
+body.font-preset-readex h5,
+body.font-preset-readex h6,
+body.font-preset-readex .font-serif,
+body.font-preset-readex .font-serif-editorial {
+  font-family: 'Readex Pro', system-ui, sans-serif !important;
+}
+
+[data-font="almarai"],
+[data-font="almarai"] body,
+[data-font="almarai"] h1,
+[data-font="almarai"] h2,
+[data-font="almarai"] h3,
+[data-font="almarai"] h4,
+[data-font="almarai"] h5,
+[data-font="almarai"] h6,
+[data-font="almarai"] .font-serif,
+[data-font="almarai"] .font-serif-editorial,
+body.font-preset-almarai,
+body.font-preset-almarai h1,
+body.font-preset-almarai h2,
+body.font-preset-almarai h3,
+body.font-preset-almarai h4,
+body.font-preset-almarai h5,
+body.font-preset-almarai h6,
+body.font-preset-almarai .font-serif,
+body.font-preset-almarai .font-serif-editorial {
+  font-family: 'Almarai', system-ui, sans-serif !important;
+}
+
+[data-font="cairo"],
+[data-font="cairo"] body,
+[data-font="cairo"] h1,
+[data-font="cairo"] h2,
+[data-font="cairo"] h3,
+[data-font="cairo"] h4,
+[data-font="cairo"] h5,
+[data-font="cairo"] h6,
+[data-font="cairo"] .font-serif,
+[data-font="cairo"] .font-serif-editorial,
+body.font-preset-cairo,
+body.font-preset-cairo h1,
+body.font-preset-cairo h2,
+body.font-preset-cairo h3,
+body.font-preset-cairo h4,
+body.font-preset-cairo h5,
+body.font-preset-cairo h6,
+body.font-preset-cairo .font-serif,
+body.font-preset-cairo .font-serif-editorial {
+  font-family: 'Cairo', system-ui, sans-serif !important;
+}
+
+[data-font="amiri"],
+[data-font="amiri"] body,
+[data-font="amiri"] h1,
+[data-font="amiri"] h2,
+[data-font="amiri"] h3,
+[data-font="amiri"] h4,
+[data-font="amiri"] h5,
+[data-font="amiri"] h6,
+[data-font="amiri"] .font-serif,
+[data-font="amiri"] .font-serif-editorial,
+body.font-preset-amiri,
+body.font-preset-amiri h1,
+body.font-preset-amiri h2,
+body.font-preset-amiri h3,
+body.font-preset-amiri h4,
+body.font-preset-amiri h5,
+body.font-preset-amiri h6,
+body.font-preset-amiri .font-serif,
+body.font-preset-amiri .font-serif-editorial {
+  font-family: 'Amiri', Georgia, serif !important;
+}
+
+/* Explicit Font Family Classes for Typography Diversity */
+.font-alexandria {
+  font-family: 'Alexandria', system-ui, sans-serif !important;
+}
+.font-tajawal {
+  font-family: 'Tajawal', system-ui, sans-serif !important;
+}
+.font-readex {
+  font-family: 'Readex Pro', system-ui, sans-serif !important;
+}
+.font-almarai {
+  font-family: 'Almarai', system-ui, sans-serif !important;
+}
+.font-cairo {
+  font-family: 'Cairo', system-ui, sans-serif !important;
+}
+.font-amiri {
+  font-family: 'Amiri', Georgia, serif !important;
+}
+
+/* 1. Global Document & Font overrides for Modern High School Theme */
+[data-theme="modern-thanaweya"],
+.theme-modern-thanaweya {
+  --th-bg-canvas: #F8FAFC;
+  --th-bg-surface: #FFFFFF;
+  --th-text-main: #0F172A;
+  --th-text-muted: #64748B;
+  --th-accent: #2563EB;
+  --th-brand: #1E3A8A;
+  --th-border: #E2E8F0;
+  --th-radius: 0.75rem;
+}
+
+[data-theme="modern-thanaweya"] body,
+.theme-modern-thanaweya body {
+  background-color: #F8FAFC !important;
+  color: #0F172A !important;
+}
+
+[data-theme="modern-thanaweya"] h1,
+[data-theme="modern-thanaweya"] h2,
+[data-theme="modern-thanaweya"] h3,
+[data-theme="modern-thanaweya"] h4,
+[data-theme="modern-thanaweya"] h5,
+[data-theme="modern-thanaweya"] h6,
+[data-theme="modern-thanaweya"] .font-serif,
+[data-theme="modern-thanaweya"] .font-serif-editorial,
+.theme-modern-thanaweya .font-serif {
+  letter-spacing: -0.01em;
+}
+
+/* Cognitive Level Educational Color-Coding */
+.badge-level-understanding {
+  background-color: #E0F2FE !important;
+  color: #0369A1 !important;
+  border: 1px solid #BAE6FD !important;
+}
+
+.badge-level-application {
+  background-color: #D1FAE5 !important;
+  color: #047857 !important;
+  border: 1px solid #A7F3D0 !important;
+}
+
+.badge-level-analysis {
+  background-color: #EDE9FE !important;
+  color: #6D28D9 !important;
+  border: 1px solid #DDD6FE !important;
+}
+
+.badge-level-judgment {
+  background-color: #FFE4E6 !important;
+  color: #BE123C !important;
+  border: 1px solid #FECDD3 !important;
+}
+
+/* Exam Trap Vivid Alert Cards */
+.card-exam-trap {
+  background: linear-gradient(135deg, rgba(255, 241, 242, 0.6) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
+  border: 1px solid #FECDD3 !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 2px 8px -2px rgba(225, 29, 72, 0.08) !important;
+}
+
+.badge-trap-error {
+  background-color: #FFE4E6 !important;
+  color: #BE123C !important;
+  border: 1px solid #FDA4AF !important;
+  font-weight: 800 !important;
+}
+
+.badge-trap-correct {
+  background-color: #D1FAE5 !important;
+  color: #065F46 !important;
+  border: 1px solid #6EE7B7 !important;
+  font-weight: 800 !important;
+}
+
+/* Lesson Summary & Capsule Spotlight */
+.card-lesson-summary {
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 4px 14px 0 rgba(217, 119, 6, 0.25) !important;
+}
+
+/* Learning Outcomes Vivid Mint Card */
+.card-learning-outcomes {
+  background: linear-gradient(135deg, rgba(240, 253, 244, 0.95) 0%, rgba(236, 253, 245, 0.85) 100%) !important;
+  border: 1px solid #A7F3D0 !important;
+  color: #064E3B !important;
+  border-radius: 0.75rem !important;
+}
+
+/* Active Thanaweya Lesson Pill */
+.nav-active-thanaweya {
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%) !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35) !important;
+  border: 1px solid #B45309 !important;
+}
+
+/* 2. Color utility remapping for Modern Thanaweya */
+[data-theme="modern-thanaweya"] .bg-\[\#F9F7F2\],
+[data-theme="modern-thanaweya"] .bg-\[\#F9F7F2\]\/95,
+[data-theme="modern-thanaweya"] .bg-\[\#F9F7F2\]\/50,
+[data-theme="modern-thanaweya"] .bg-\[\#F9F7F2\]\/80,
+.theme-modern-thanaweya .bg-\[\#F9F7F2\] {
+  background-color: #F8FAFC !important;
+}
+
+[data-theme="modern-thanaweya"] .bg-\[\#1D1D1B\],
+.theme-modern-thanaweya .bg-\[\#1D1D1B\] {
+  background-color: #1E293B !important;
+  color: #F8FAFC !important;
+}
+
+[data-theme="modern-thanaweya"] .bg-\[\#C4A484\],
+[data-theme="modern-thanaweya"] .bg-\[\#C5A059\],
+.theme-modern-thanaweya .bg-\[\#C4A484\] {
+  background-color: #2563EB !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="modern-thanaweya"] .bg-\[\#C4A484\]\/10,
+[data-theme="modern-thanaweya"] .bg-\[\#C4A484\]\/15,
+[data-theme="modern-thanaweya"] .bg-\[\#C4A484\]\/20,
+[data-theme="modern-thanaweya"] .bg-\[\#C4A484\]\/25 {
+  background-color: rgba(37, 99, 235, 0.08) !important;
+}
+
+[data-theme="modern-thanaweya"] .text-\[\#1D1D1B\],
+.theme-modern-thanaweya .text-\[\#1D1D1B\] {
+  color: #0F172A !important;
+}
+
+[data-theme="modern-thanaweya"] .text-\[\#1D1D1B\]\/70,
+[data-theme="modern-thanaweya"] .text-\[\#1D1D1B\]\/80 {
+  color: #64748B !important;
+}
+
+[data-theme="modern-thanaweya"] .text-\[\#C4A484\],
+[data-theme="modern-thanaweya"] .text-\[\#C5A059\],
+.theme-modern-thanaweya .text-\[\#C4A484\] {
+  color: #2563EB !important;
+}
+
+[data-theme="modern-thanaweya"] .text-\[\#F9F7F2\],
+.theme-modern-thanaweya .text-\[\#F9F7F2\] {
+  color: #F8FAFC !important;
+}
+
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\],
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/10,
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/15,
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/20,
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/25,
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/30,
+[data-theme="modern-thanaweya"] .border-\[\#1D1D1B\]\/40 {
+  border-color: #E2E8F0 !important;
+}
+
+[data-theme="modern-thanaweya"] .border-\[\#C4A484\],
+[data-theme="modern-thanaweya"] .border-\[\#C4A484\]\/40 {
+  border-color: #3B82F6 !important;
+}
+
+/* 3. Cards & Container Polish in Modern Thanaweya Theme */
+[data-theme="modern-thanaweya"] .editorial-canvas,
+.theme-modern-thanaweya .editorial-canvas {
+  background-color: #F1F5F9 !important;
+}
+
+[data-theme="modern-thanaweya"] .editorial-card,
+[data-theme="modern-thanaweya"] .bg-\[\#FFFFFF\] {
+  background-color: #FFFFFF !important;
+  border-color: #E2E8F0 !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04), 0 2px 4px -2px rgba(0, 0, 0, 0.02) !important;
+}
+
+[data-theme="modern-thanaweya"] .editorial-card-dark {
+  background-color: #1E293B !important;
+  color: #FFFFFF !important;
+  border-color: #334155 !important;
+  border-radius: 0.75rem !important;
+}
+
+[data-theme="modern-thanaweya"] .editorial-badge {
+  border-color: #2563EB !important;
+  color: #2563EB !important;
+  background-color: #EFF6FF !important;
+  border-radius: 0.375rem !important;
+}
+
+[data-theme="modern-thanaweya"] .editorial-badge-accent {
+  background-color: #2563EB !important;
+  color: #FFFFFF !important;
+  border-radius: 0.375rem !important;
+}
+
+/* Modern interactive buttons in Thanaweya theme */
+[data-theme="modern-thanaweya"] button,
+[data-theme="modern-thanaweya"] .btn {
+  border-radius: 0.5rem;
+}
+
+[data-theme="modern-thanaweya"] header {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-bottom-color: #E2E8F0 !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+/* =========================================================================
+   NIGHT STUDY THEME ENGINE (ثيم المذاكرة الليلية لليالي الامتحانات)
+   Eye-strain reduction with dark OLED tones and luminous accents.
+   ========================================================================= */
+[data-theme="night"],
+.theme-night {
+  background-color: #0B0F19 !important;
+  color: #F1F5F9 !important;
+  font-family: 'Readex Pro', 'Cairo', system-ui, sans-serif !important;
+}
+
+[data-theme="night"] body,
+.theme-night body {
+  background-color: #0B0F19 !important;
+  color: #F1F5F9 !important;
+  font-family: 'Readex Pro', 'Cairo', system-ui, sans-serif !important;
+}
+
+[data-theme="night"] h1,
+[data-theme="night"] h2,
+[data-theme="night"] h3,
+[data-theme="night"] h4,
+[data-theme="night"] h5,
+[data-theme="night"] h6,
+[data-theme="night"] .font-serif,
+[data-theme="night"] .font-serif-editorial,
+.theme-night .font-serif {
+  font-family: 'Readex Pro', 'Cairo', system-ui, sans-serif !important;
+}
+
+[data-theme="night"] .bg-\[\#F9F7F2\],
+[data-theme="night"] .bg-\[\#F9F7F2\]\/95,
+[data-theme="night"] .bg-\[\#F9F7F2\]\/50,
+[data-theme="night"] .bg-\[\#F9F7F2\]\/80 {
+  background-color: #0F172A !important;
+}
+
+[data-theme="night"] .bg-\[\#FFFFFF\] {
+  background-color: #1E293B !important;
+  color: #F1F5F9 !important;
+  border-color: #334155 !important;
+  border-radius: 0.75rem !important;
+}
+
+[data-theme="night"] .bg-\[\#1D1D1B\] {
+  background-color: #050811 !important;
+  border-color: #1E293B !important;
+}
+
+[data-theme="night"] .bg-\[\#C4A484\] {
+  background-color: #3B82F6 !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="night"] .text-\[\#1D1D1B\] {
+  color: #F8FAFC !important;
+}
+
+[data-theme="night"] .text-\[\#1D1D1B\]\/70,
+[data-theme="night"] .text-\[\#1D1D1B\]\/80 {
+  color: #94A3B8 !important;
+}
+
+[data-theme="night"] .text-\[\#C4A484\] {
+  color: #60A5FA !important;
+}
+
+[data-theme="night"] .border-\[\#1D1D1B\],
+[data-theme="night"] .border-\[\#1D1D1B\]\/10,
+[data-theme="night"] .border-\[\#1D1D1B\]\/15,
+[data-theme="night"] .border-\[\#1D1D1B\]\/20,
+[data-theme="night"] .border-\[\#1D1D1B\]\/25,
+[data-theme="night"] .border-\[\#1D1D1B\]\/30,
+[data-theme="night"] .border-\[\#1D1D1B\]\/40 {
+  border-color: #334155 !important;
+}
+
+[data-theme="night"] header {
+  background-color: rgba(15, 23, 42, 0.95) !important;
+  border-bottom-color: #334155 !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+/* =========================================================================
+   AUTHENTIC CLASSIC EDITORIAL UTILITIES (PRESERVED)
+   ========================================================================= */
+.editorial-canvas {
+  background-color: #F9F7F2;
+}
+
+.editorial-card {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(29, 29, 27, 0.12);
+  box-shadow: 0 1px 3px 0 rgba(29, 29, 27, 0.04);
+}
+
+.editorial-card-dark {
+  background-color: #1D1D1B;
+  color: #F9F7F2;
+  border: 1px solid rgba(29, 29, 27, 0.4);
+}
+
+.editorial-badge {
+  border: 1px solid #1D1D1B;
+  color: #1D1D1B;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.editorial-badge-accent {
+  background-color: #C4A484;
+  color: #1D1D1B;
+  font-weight: 700;
+}
+
+
+/* Print visibility utilities for screen */
+.print-only {
+  display: none !important;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm 8mm 12mm 8mm;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .page-break {
+    page-break-before: always;
+    break-before: page;
+  }
+  .page-break-after {
+    page-break-after: always;
+    break-after: page;
+  }
+  .page-break-inside-avoid {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+  /* Prevent links from appending their destination URLs in print */
+  a[href]::after {
+    content: "" !important;
+  }
+  body {
+    background-color: #FFFFFF !important;
+    color: #111827 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  /* Flatten screen canvas wrapper to span full printable A4 page without double margins */
+  main {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: transparent !important;
+  }
+
+  /* Authentic Grand Book Front Cover Print Calibration */
+  #book-front-cover {
+    background-color: #0C1E36 !important;
+    color: #FDFCF7 !important;
+    border: 8px solid #C5A059 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    page-break-after: always !important;
+    break-after: page !important;
+    min-height: 270mm !important;
+    height: 270mm !important;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    margin: 0 !important;
+  }
+  #book-front-cover * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Ensure print borders stay crisp and financial tables / T-accounts do not fracture across pages */
+  .publication-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    table-layout: fixed !important;
+  }
+  .publication-table thead {
+    display: table-header-group !important;
+  }
+  .publication-table tr {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+  .publication-card,
+  .publication-question,
+  .publication-answer,
+  .book-t-account,
+  [data-testid="t-account-component"],
+  .editorial-card,
+  .print-lesson-container {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .publication-section {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+  .publication-heading {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+}
+
+/* Authentic Commercial External Book Typography & Ruling */
+.book-double-border {
+  border: 3px double #0C1E36;
+}
+
+.book-t-account {
+  position: relative;
+}
+.book-t-account::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 2px;
+  background-color: #0C1E36;
+}
+
+/* Focus Mode Fluid Page-Fill and Proportional Typography */
+.focus-mode-container {
+  width: 100%;
+  max-width: 96% !important;
+  margin-left: auto;
+  margin-right: auto;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (min-width: 1536px) {
+  .focus-mode-container {
+    max-width: 93% !important;
+  }
+}
+
+.focus-mode-scale-normal {
+  font-size: 100%;
+}
+
+.focus-mode-scale-large {
+  font-size: 112%;
+}
+
+.focus-mode-scale-xlarge {
+  font-size: 125%;
+}
+
+/* Sidebar Collapsed Fluid Page-Fill and Proportional Typography */
+.sidebar-collapsed-layout {
+  width: 100% !important;
+  max-width: 100% !important;
+  font-size: 1.075rem;
+  line-height: 1.75;
+}
+
+.sidebar-collapsed-layout .max-w-4xl,
+.sidebar-collapsed-layout .max-w-5xl,
+.sidebar-collapsed-layout .max-w-6xl,
+.sidebar-collapsed-layout .max-w-7xl {
+  max-width: 96% !important;
+  width: 100% !important;
+  padding-left: clamp(1rem, 3vw, 2.5rem) !important;
+  padding-right: clamp(1rem, 3vw, 2.5rem) !important;
+  transition: max-width 0.3s cubic-bezier(0.4, 0, 0.2, 1), font-size 0.3s ease;
+}
+
+@media (min-width: 1536px) {
+  .sidebar-collapsed-layout .max-w-4xl,
+  .sidebar-collapsed-layout .max-w-5xl,
+  .sidebar-collapsed-layout .max-w-6xl,
+  .sidebar-collapsed-layout .max-w-7xl {
+    max-width: 94% !important;
+  }
+}
+
+.sidebar-collapsed-layout p,
+.sidebar-collapsed-layout li,
+.sidebar-collapsed-layout td,
+.sidebar-collapsed-layout th {
+  font-size: 1.085rem;
+}
+
+.sidebar-collapsed-layout h1 {
+  font-size: clamp(2rem, 3vw, 2.75rem);
+}
+
+.sidebar-collapsed-layout h2 {
+  font-size: clamp(1.6rem, 2.5vw, 2.2rem);
+}
+
+.sidebar-collapsed-layout h3 {
+  font-size: clamp(1.35rem, 2vw, 1.75rem);
+}
+

@@ -1,0 +1,1320 @@
+{
+  "phase": "PHASE 4.2 — FORENSIC REMEDIATION & VALIDATION AUDIT",
+  "timestamp": "2026-09-19T11:44:19.365Z",
+  "total_canonical": 697,
+  "exam_eligible_clean": 610,
+  "blocked_in_review": 87,
+  "breakdown_by_category": {
+    "exact_stem_duplicate": 44,
+    "stem_equals_answer": 36,
+    "placeholder_answer": 2,
+    "pedagogical_fragment": 5
+  },
+  "items": [
+    {
+      "canonical_id": "b373-u2-082",
+      "unit_id": "unit-2",
+      "lesson_id": "u2-lesson-2",
+      "learning_objective_code": "ACC.U2.2.2",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "ترصيد حساب البنك والخزينة بعد 15 عملية:\n  - **رصيد البنك المنقول:** (200,000 + 20,000 + 50,000) - (1",
+      "answer_preview": "ترصيد حساب البنك والخزينة بعد 15 عملية:\n  - **رصيد البنك المنقول:** (200,000 + 20,000 + 50,000) - (1",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u3-115",
+      "unit_id": "unit-3",
+      "lesson_id": "lesson-3-2",
+      "learning_objective_code": "LO-U3.2",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "قيد إجمالي الترحيل ليومية المبيعات الآجلة (25,000ج).\n  * **القيد:** 25,000 من حـ/ مراقبة العملاء إلى",
+      "answer_preview": "قيد إجمالي الترحيل ليومية المبيعات الآجلة (25,000ج).\n  * **القيد:** 25,000 من حـ/ مراقبة العملاء إلى",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u3-116",
+      "unit_id": "unit-3",
+      "lesson_id": "lesson-3-2",
+      "learning_objective_code": "LO-U3.2",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "قيد إجمالي الترحيل ليومية المشتريات الآجلة (45,000ج).\n  * **القيد:** 45,000 من حـ/ المشتريات إلى حـ/",
+      "answer_preview": "قيد إجمالي الترحيل ليومية المشتريات الآجلة (45,000ج).\n  * **القيد:** 45,000 من حـ/ المشتريات إلى حـ/",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-147",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تم قيد شراء أثاث بمبلغ 5,000ج نقداً بـ قيد خاطئ: (من حـ/ السيارات إلى حـ/ الخزينة 5,000ج). صحح القيد",
+      "answer_preview": "تم قيد شراء أثاث بمبلغ 5,000ج نقداً بـ قيد خاطئ: (من حـ/ السيارات إلى حـ/ الخزينة 5,000ج). صحح القيد",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-148",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "نفس العملية السابقة، صحح القيد بـ **الطريقة المطولة**.\n  * **قيد الإلغاء:** 5,000 من حـ/ الخزينة إلى",
+      "answer_preview": "نفس العملية السابقة، صحح القيد بـ **الطريقة المطولة**.\n  * **قيد الإلغاء:** 5,000 من حـ/ الخزينة إلى",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-149",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تم قيد سداد أجور 3,000ج نقداً بـ مبلغ خاطئ (30,000ج) بالطرفين. صحح الخطأ بقيد واحد.\n  * **قيد التصحي",
+      "answer_preview": "تم قيد سداد أجور 3,000ج نقداً بـ مبلغ خاطئ (30,000ج) بالطرفين. صحح الخطأ بقيد واحد.\n  * **قيد التصحي",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-150",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تم قيد تحصيل 4,000ج من العميل علي بمبلغ 400ج بالطرفين. صحح الخطأ.\n  * **قيد التصحيح:** 3,600 من حـ/ ",
+      "answer_preview": "تم قيد تحصيل 4,000ج من العميل علي بمبلغ 400ج بالطرفين. صحح الخطأ.\n  * **قيد التصحيح:** 3,600 من حـ/ ",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-151",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "اشترت المنشأة آلة بـ 20,000ج نقداً وسجلت بالخطأ كـ مصروف صيانة آلات. صحح خطأ المبدأ هذا.\n  * **قيد ا",
+      "answer_preview": "اشترت المنشأة آلة بـ 20,000ج نقداً وسجلت بالخطأ كـ مصروف صيانة آلات. صحح خطأ المبدأ هذا.\n  * **قيد ا",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-152",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "سحب المالك 2,500ج نقداً لاستخدامه الشخصي وسجلت بالخطأ كـ مصروفات إدارية عمومية. صحح الخطأ.\n  * **قيد",
+      "answer_preview": "سحب المالك 2,500ج نقداً لاستخدامه الشخصي وسجلت بالخطأ كـ مصروفات إدارية عمومية. صحح الخطأ.\n  * **قيد",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-153",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-3",
+      "learning_objective_code": "LO-U4.3",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تم قيد شراء بضاعة بالآجل 8,000ج من المورد حسن بالخطأ كـ مبيعات آجل للعميل حسن. صحح القيد.\n  * **قيد ",
+      "answer_preview": "تم قيد شراء بضاعة بالآجل 8,000ج من المورد حسن بالخطأ كـ مبيعات آجل للعميل حسن. صحح القيد.\n  * **قيد ",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u4-160",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "PLACEHOLDER_ANSWER",
+      "primary_code": "PH-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u4-161",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u4-162",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u4-163",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u4-164",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u4-165",
+      "unit_id": "unit-4",
+      "lesson_id": "lesson-4-2",
+      "learning_objective_code": "LO-U4.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "(ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن (ص 102-104) — قيود تصحيح وتطبيقات معلقة متتالية (مسائل تطبيقية شاملة واختيارا",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u5-209",
+      "unit_id": "unit-5",
+      "lesson_id": "lesson-5-2",
+      "learning_objective_code": "LO-U5.2",
+      "category": "PLACEHOLDER_ANSWER",
+      "primary_code": "PH-001",
+      "stem_preview": "اختيارات واختبارات القوائم",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن اختيارات واختبارات القوائم (اختبار مهارات إعداد القوائم والتسويات.)",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u5-210",
+      "unit_id": "unit-5",
+      "lesson_id": "lesson-5-2",
+      "learning_objective_code": "LO-U5.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "اختيارات واختبارات القوائم",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن اختيارات واختبارات القوائم (اختبار مهارات إعداد القوائم والتسويات.)",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u5-211",
+      "unit_id": "unit-5",
+      "lesson_id": "lesson-5-2",
+      "learning_objective_code": "LO-U5.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "اختيارات واختبارات القوائم",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن اختيارات واختبارات القوائم (اختبار مهارات إعداد القوائم والتسويات.)",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u5-212",
+      "unit_id": "unit-5",
+      "lesson_id": "lesson-5-2",
+      "learning_objective_code": "LO-U5.2",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "اختيارات واختبارات القوائم",
+      "answer_preview": "تطبيق محاسبي معتمد ضمن اختيارات واختبارات القوائم (اختبار مهارات إعداد القوائم والتسويات.)",
+      "reasons": [
+        "PH-001: Placeholder or scaffold question requiring curriculum authoring: الإجابة المسجلة هي نص نائبي (Placeholder) وتتطلب مراجعة أكاديمية متخصصة.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u6-227",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "صغ معادلة استخراج صافي الربح من السجلات غير المكتملة.\n  * **المعادلة:** $$\\mathbf{\\text{صافي الربح} ",
+      "answer_preview": "صغ معادلة استخراج صافي الربح من السجلات غير المكتملة.\n  * **المعادلة:** $$\\mathbf{\\text{صافي الربح} ",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u6-242",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تحديث دفتر النقدية = $6,000 - 300 - 700 = \\mathbf{5,000 \\text{ جنيه (الرصيد المعدل)}}$.",
+      "answer_preview": "تحديث دفتر النقدية = $6,000 - 300 - 700 = \\mathbf{5,000 \\text{ جنيه (الرصيد المعدل)}}$.",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u6-243",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "مذكرة تسوية البنك = $5,000 (\\text{دفتر معدل}) + 1,200 (\\text{شيكات معلقة}) - 1,800 (\\text{إيداعات با",
+      "answer_preview": "مذكرة تسوية البنك = $5,000 (\\text{دفتر معدل}) + 1,200 (\\text{شيكات معلقة}) - 1,800 (\\text{إيداعات با",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u6-244",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "رأس المال أول = $30,000 - 10,000 = \\mathbf{20,000 \\text{ج}}$، آخر = $38,000 - 12,000 = \\mathbf{26,00",
+      "answer_preview": "رأس المال أول = $30,000 - 10,000 = \\mathbf{20,000 \\text{ج}}$، آخر = $38,000 - 12,000 = \\mathbf{26,00",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u6-245",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "صافي ربح كريم = $26,000 - 20,000 + 5,000 - 3,000 = \\mathbf{8,000 \\text{ جنيه}}$.",
+      "answer_preview": "صافي ربح كريم = $26,000 - 20,000 + 5,000 - 3,000 = \\mathbf{8,000 \\text{ جنيه}}$.",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u6-246",
+      "unit_id": "unit-6",
+      "lesson_id": "lesson-6-1",
+      "learning_objective_code": "LO-U6.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "الأهمية الرقابية لتسوية كريم = تكشف أخطاء السهو وتضمن السيطرة المحكمة على سيولة المشروع.\n\n---",
+      "answer_preview": "الأهمية الرقابية لتسوية كريم = تكشف أخطاء السهو وتضمن السيطرة المحكمة على سيولة المشروع.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-258",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "answer_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-259",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "answer_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-260",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "answer_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-261",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "answer_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-262",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "answer_preview": "أسئلة علل وتحديات الإهلاك للمركبات والمباني والآلات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-266",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "القيود المحاسبية لإغلاق مجمع الإهلاك والتكلفة وإثبات الثمن والنتيجة.\n\n---",
+      "answer_preview": "القيود المحاسبية لإغلاق مجمع الإهلاك والتكلفة وإثبات الثمن والنتيجة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-267",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "القيود المحاسبية لإغلاق مجمع الإهلاك والتكلفة وإثبات الثمن والنتيجة.\n\n---",
+      "answer_preview": "القيود المحاسبية لإغلاق مجمع الإهلاك والتكلفة وإثبات الثمن والنتيجة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-272",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "أثر انخفاض المخصص المطلوب على قائمة الدخل (يظهر كـ إيراد آخر يزود الربح).\n\n---",
+      "answer_preview": "أثر انخفاض المخصص المطلوب على قائمة الدخل (يظهر كـ إيراد آخر يزود الربح).\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-273",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "أثر انخفاض المخصص المطلوب على قائمة الدخل (يظهر كـ إيراد آخر يزود الربح).\n\n---",
+      "answer_preview": "أثر انخفاض المخصص المطلوب على قائمة الدخل (يظهر كـ إيراد آخر يزود الربح).\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u7-274",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "إهلاك المعدات السنوي = $40,000 \\div 5 = \\mathbf{8,000 \\text{ جنيه/سنة}}$.",
+      "answer_preview": "إهلاك المعدات السنوي = $40,000 \\div 5 = \\mathbf{8,000 \\text{ جنيه/سنة}}$.",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-275",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "نتيجة استبعاد الآلة = دفتري $10,000 - 6,000 = 4,000\\text{ج}$. ربح البيع = $5,000 - 4,000 = \\mathbf{1",
+      "answer_preview": "نتيجة استبعاد الآلة = دفتري $10,000 - 6,000 = 4,000\\text{ج}$. ربح البيع = $5,000 - 4,000 = \\mathbf{1",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u7-276",
+      "unit_id": "unit-7",
+      "lesson_id": "lesson-7-1",
+      "learning_objective_code": "LO-U7.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "المخصص الجديد = $12,000 \\times 5\\% = 600\\text{ج}$. زيادة المخصص = $600 - 400 = \\mathbf{200 \\text{ جن",
+      "answer_preview": "المخصص الجديد = $12,000 \\times 5\\% = 600\\text{ج}$. زيادة المخصص = $600 - 400 = \\mathbf{200 \\text{ جن",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-286",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "answer_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-287",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "answer_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-288",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "answer_preview": "مسائل النسبة ومبررات التفاوت في الحصص.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-293",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "answer_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-294",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "answer_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-295",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "answer_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-296",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "answer_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-297",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "answer_preview": "مسائل التسويات التطبيقية الشاملة والتحدي الامتحاني.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-302",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "الشهرة عند انسحاب شريك وتسويتها بحسابه الجاري.\n\n---",
+      "answer_preview": "الشهرة عند انسحاب شريك وتسويتها بحسابه الجاري.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-303",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الشهرة عند انسحاب شريك وتسويتها بحسابه الجاري.\n\n---",
+      "answer_preview": "الشهرة عند انسحاب شريك وتسويتها بحسابه الجاري.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u8-304",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "إجمالي التسويات المباشرة = فائدة حسن 15,000ج + فائدة مريم 9,000ج + راتب حسن 15,000ج = **39,000 جنيه*",
+      "answer_preview": "إجمالي التسويات المباشرة = فائدة حسن 15,000ج + فائدة مريم 9,000ج + راتب حسن 15,000ج = **39,000 جنيه*",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-305",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "متبقي الربح وتوزيعه = $120,000 - 39,000 = 81,000\\text{ج}$. نصيب حسن متبقي = 54,000ج، نصيب مريم متبقي",
+      "answer_preview": "متبقي الربح وتوزيعه = $120,000 - 39,000 = 81,000\\text{ج}$. نصيب حسن متبقي = 54,000ج، نصيب مريم متبقي",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-306",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "التوزيع النهائي والأستفادة = **إجمالي حسن = $15,000 + 15,000 + 54,000 = \\mathbf{84,000 \\text{ جنيه}}",
+      "answer_preview": "التوزيع النهائي والأستفادة = **إجمالي حسن = $15,000 + 15,000 + 54,000 = \\mathbf{84,000 \\text{ جنيه}}",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u8-307",
+      "unit_id": "unit-8",
+      "lesson_id": "lesson-8-1",
+      "learning_objective_code": "LO-U8.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "توزيع الشهرة = نصيب حسن = $60,000 \\times \\left(\\frac{2}{3}\\right) = \\mathbf{40,000 \\text{ جنيه}}$، ن",
+      "answer_preview": "توزيع الشهرة = نصيب حسن = $60,000 \\times \\left(\\frac{2}{3}\\right) = \\mathbf{40,000 \\text{ جنيه}}$، ن",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u9-317",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "answer_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u9-318",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "answer_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-319",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "answer_preview": "مسائل المقارنة والتوزيعات الشاملة بين الشركة (أ) والشركة (ب).\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-323",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "نسب التوزيع والاحتجاز التنافسية للشركات.\n\n---",
+      "answer_preview": "نسب التوزيع والاحتجاز التنافسية للشركات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u9-324",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "نسب التوزيع والاحتجاز التنافسية للشركات.\n\n---",
+      "answer_preview": "نسب التوزيع والاحتجاز التنافسية للشركات.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-329",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "answer_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u9-330",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "answer_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-331",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "answer_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-332",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "answer_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-333",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "answer_preview": "تمارين التعديلات الجردية للاشتراكات والمصروفات المستحقة والمقدمة.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u9-334",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "قارن بجدول بين حساب المقبوضات والمدفوعات وحساب الإيرادات والمصروفات.\n  * **الجدول:** المقبوضات والمد",
+      "answer_preview": "قارن بجدول بين حساب المقبوضات والمدفوعات وحساب الإيرادات والمصروفات.\n  * **الجدول:** المقبوضات والمد",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u9-335",
+      "unit_id": "unit-9",
+      "lesson_id": "lesson-9-1",
+      "learning_objective_code": "LO-U9.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "تصنيف بنود اشتراكات مقدمة، شراء آلات، وتبرعات محصلة بـ القوائم غير الهادفة للربح.\n\n---",
+      "answer_preview": "تصنيف بنود اشتراكات مقدمة، شراء آلات، وتبرعات محصلة بـ القوائم غير الهادفة للربح.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u10-345",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "answer_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u10-346",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "answer_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-347",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "answer_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-348",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "answer_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-349",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "answer_preview": "حد حدود النسب الماليّة والحالة الشاملة المتكاملة للمفاضلة بين الشركتين أ وب.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-350",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "PEDAGOGICAL_FRAGMENT",
+      "primary_code": "PED-001",
+      "stem_preview": "الغرض من قائمة الدخل",
+      "answer_preview": "قياس نتيجة أداء النشاط المالي الصافي من ربح أو خسارة عن الفترة.",
+      "reasons": [
+        "PED-001: Stem is a heading fragment, glossary, or non-interrogative prompt: رأس السؤال يمثل عنواناً أو فقرة مسردية وليس سؤالاً تقييمياً قابلاً للامتحان.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u10-352",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "PEDAGOGICAL_FRAGMENT",
+      "primary_code": "PED-001",
+      "stem_preview": "سبب احتساب الإهلاك",
+      "answer_preview": "توزيع تكلفة الأصل غير المتداول على سنوات عمره الإنتاجي تطبيقا للمقابلة.",
+      "reasons": [
+        "PED-001: Stem is a heading fragment, glossary, or non-interrogative prompt: رأس السؤال يمثل عنواناً أو فقرة مسردية وليس سؤالاً تقييمياً قابلاً للامتحان.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u10-353",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "PEDAGOGICAL_FRAGMENT",
+      "primary_code": "PED-001",
+      "stem_preview": "فائدة حسابات المراقبة",
+      "answer_preview": "إحكام السيطرة والرقابة الإجمالية على حسابات الأستاذ الفرعية وتوفير مطابقة محايدة.",
+      "reasons": [
+        "PED-001: Stem is a heading fragment, glossary, or non-interrogative prompt: رأس السؤال يمثل عنواناً أو فقرة مسردية وليس سؤالاً تقييمياً قابلاً للامتحان.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u10-354",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "PEDAGOGICAL_FRAGMENT",
+      "primary_code": "PED-001",
+      "stem_preview": "سبب مخصص الديون المشكوك فيها",
+      "answer_preview": "التحوط ضد الخسائر المتوقعة بعجز بعض العملاء تطبيقا للحيطة والحذر.",
+      "reasons": [
+        "PED-001: Stem is a heading fragment, glossary, or non-interrogative prompt: رأس السؤال يمثل عنواناً أو فقرة مسردية وليس سؤالاً تقييمياً قابلاً للامتحان.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    },
+    {
+      "canonical_id": "b373-u10-359",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "STEM_EQUALS_ANSWER",
+      "primary_code": "ANS-002",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REWRITE_STEM_AND_ANSWER"
+    },
+    {
+      "canonical_id": "b373-u10-360",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-361",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-362",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-363",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-364",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-365",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-366",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-367",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-368",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-369",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-370",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-371",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "EXACT_STEM_DUPLICATE",
+      "primary_code": "DUP-001",
+      "stem_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "answer_preview": "الحالات الميدانية الشاملة وتحديات المفاضلة الفورية.\n\n---",
+      "reasons": [
+        "ANS-002: Question stem is identical to answer key: نص السؤال مطابق تماماً للإجابة النموذجية (تلف صياغي).",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "REDUNDANT_RETIRE_OR_VARIANT"
+    },
+    {
+      "canonical_id": "b373-u10-372",
+      "unit_id": "unit-10",
+      "lesson_id": "lesson-10-1",
+      "learning_objective_code": "LO-U10.1",
+      "category": "PEDAGOGICAL_FRAGMENT",
+      "primary_code": "PED-001",
+      "stem_preview": "مسرد المصطلحات المحاسبية الرسمي المعتمد (17 مصطلحاً)",
+      "answer_preview": "1. **Accounting Equation (المعادلة المحاسبية):** $\\text{الأصول} = \\text{الالتزامات} + \\text{حقوق الم",
+      "reasons": [
+        "PED-001: Stem is a heading fragment, glossary, or non-interrogative prompt: رأس السؤال يمثل عنواناً أو فقرة مسردية وليس سؤالاً تقييمياً قابلاً للامتحان.",
+        "DUP-001: Duplicate or redundant item classified in duplicate family: السؤال مكرر أو زائد عن الحاجة وتم تصنيفه للمراجعة."
+      ],
+      "remediation_action": "AUTHOR_ACADEMIC_CONTENT"
+    }
+  ]
+}
